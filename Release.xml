@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
     <version>2.1.7.76</version>
-    <url>http://rbsoft.org/downloads/AutoUpdaterTest.zip</url>
-    <changelog>https://github.com/ravibpatel/AutoUpdater.NET/releases</changelog>
+    <url>https://github.com/miappks/Quicktype-Searcher/blob/main/QuicktypeSearcher.zip</url>
+    <changelog>https://github.com/miappks/Quicktype-Searcher/blob/main/Changelog.txt</changelog>
     <mandatory>false</mandatory>
 </item>
