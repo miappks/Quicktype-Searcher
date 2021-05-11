@@ -9,4 +9,4 @@ Weitere Infos auf: [miappks.ch/quicktypesearcher](https://www.miappks.ch/quickty
 License
 =======
 
-Quicktype Searcher is available under the GNU GENERAL PUBLIC LICENSE Version 3. [See the LICENSE file for more info.](https://github.com/miappks/Quicktype-Searcher/blob/main/LICENSE)
+Quicktype Searcher is available under the GNU General Public License v3.0. [See the LICENSE file for more info.](https://github.com/miappks/Quicktype-Searcher/blob/main/LICENSE)
