@@ -4,7 +4,7 @@ Quicktype Searcher für Polymechaniker. Suche Schnittdaten für Fraisa Werkzeuge
 
 Siehe die Releases unter [Releases](https://github.com/miappks/Quicktype-Searcher/releases)
 
-Weitere Infos auf: [miappks.ch/quicktypesearcher](https://www.miappks.ch/quicktypesearcher)
+Weitere Infos und Download auf: [miappks.ch/quicktypesearcher](https://www.miappks.ch/quicktypesearcher)
 
 License
 =======
