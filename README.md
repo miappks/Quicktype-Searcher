@@ -1,6 +1,6 @@
 # Quicktype Searcher
 ## Tool Native for Windows
-Quicktype Searcher für Polymechaniker. Suche Schnittdaten für Fraisa Werkzeuge, Toleranzen, integrierte Werkzeugbibliothek
+Quicktype Searcher für Polymechaniker. Suche Schnittdaten für Fraisa Werkzeuge, Toleranzen, Gewindeinfo, integrierte Werkzeugbibliothek und -verwaltung
 
 Siehe die Releases unter [Releases](https://github.com/miappks/Quicktype-Searcher/releases)
 
